@@ -2,7 +2,7 @@
 
 ### Repositório para os meus desafios do HackerRank
 
-###Desafios resolvidos:
+### Desafios resolvidos:
 
 1 Functions https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true
 
